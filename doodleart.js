@@ -112,7 +112,7 @@ onkeydown = e => {
             showSpecial = false;
             break;
         case 'i':
-            alert('Every Friday, we will host a drawing competition, and announce the winner by Monday. If you would like to enter, submit your artwork to doodleartwebsite@gmail.com. If you win the competition, you get a shoutout for any social media platform. Good luck!');
+            alert('Every Friday, we will host a drawing competition, and announce the winner by Monday. If you would like to enter, submit your artwork to gjdevelops@gmail.com. If you win the competition, you get a shoutout for any social media platform. Good luck!');
             break;
         case 'w':
             alert('This weeks winner was xdcombo. Go ahead and check them out on TikTok @xdcombo79')
