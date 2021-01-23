@@ -115,7 +115,7 @@ onkeydown = e => {
             alert('Every Friday, we will host a drawing competition, and announce the winner by Monday. If you would like to enter, submit your artwork to gjdevelops@gmail.com. If you win the competition, you get a shoutout for any social media platform. Good luck!');
             break;
         case 'w':
-            alert('This weeks winner was xdcombo. Go ahead and check them out on TikTok @xdcombo79')
+            alert('We have no winner! Please submit your artwork.')
             break;
     }
     if(showColor) { 
